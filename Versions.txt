@@ -1,0 +1,19 @@
+﻿0.1.0.2		Add About box (k)
+			Add Icons and graphics (k)
+			Add ability to remember where program closed last time and start it where it was closed.  (k)
+------------------------------------
+0.1.0.3		Add Configuration window with the following settings: Background Color; Font Color;
+				Focussed opacity; Unfocused Opacity. k
+			Add reset capability. k
+0.1.0.4		Add exception handling at a program level. k
+-------------------------------------
+0.1.0.5     Make program display UTC time to the second.
+-------------------------------------
+0.1.0.6		Double click to paste date-time into clipboard. <not working... so...>
+			Add menu option to Copy.  K
+-----------------------------------------
+0.1.0.7		Add install project. K
+-----------------------------------------
+0.1.1.0		Alpha test - release version 0.1.1  wip
+
+			

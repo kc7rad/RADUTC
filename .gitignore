@@ -1,0 +1,10 @@
+# .gitignore
+
+# ignore bin
+bin/
+
+# ignore obj
+obj/
+
+#ignore .vs
+.vs/
