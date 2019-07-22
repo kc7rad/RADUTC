@@ -164,12 +164,12 @@
             this.llSupport.AutoSize = true;
             this.llSupport.CausesValidation = false;
             this.tableLayoutPanel.SetColumnSpan(this.llSupport, 2);
-            this.llSupport.Location = new System.Drawing.Point(79, 223);
+            this.llSupport.Location = new System.Drawing.Point(76, 223);
             this.llSupport.Name = "llSupport";
-            this.llSupport.Size = new System.Drawing.Size(318, 13);
+            this.llSupport.Size = new System.Drawing.Size(325, 13);
             this.llSupport.TabIndex = 28;
             this.llSupport.TabStop = true;
-            this.llSupport.Text = "Go to www.ruralruins.com/w/RAD for updates, news and support.";
+            this.llSupport.Text = "Go to github.com/kc7rad/RADUTC for updates, news and support.";
             this.llSupport.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llSupport_LinkClicked_1);
             // 
             // abt

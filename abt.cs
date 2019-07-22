@@ -104,7 +104,7 @@ namespace RADUTC
 
         private void llSupport_LinkClicked_1(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.ruralruins.com/w/RAD/");
+            System.Diagnostics.Process.Start("https://github.com/kc7rad/RADUTC");
         }
     }
 }
